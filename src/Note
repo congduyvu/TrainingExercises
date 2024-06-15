@@ -1,0 +1,171 @@
+***Exercise_1***:
+Description: Write a Java program to get a number from the user and print whether it is positive or negative.
+Test Data
+Input number: 35
+Expected Output :
+Number is positive
+
+***Exercise_2***:
+Description: Write a Java program to solve quadratic equations
+Test Data
+Input a: 1
+Input b: 5
+Input c: 1
+Expected Output :
+The roots are -0.20871215252208009 and -4.7912878474779195
+
+***Exercise_3***:
+Description: Write a Java program that takes three numbers from the user and prints the greatest number.
+Test Data
+Input the 1st number: 25
+Input the 2nd number: 78
+Input the 3rd number: 87
+Expected Output :
+The greatest: 87
+
+***Exercise_4***:
+Description: Write a Java program that reads a floating-point number and prints "zero" if the number is zero.
+Otherwise, print "positive" or "negative". Add "small" if the absolute value of the number is less than 1, or "large" if it exceeds 1,000,000.
+Test Data
+Input a number: 25
+Expected Output :
+Positive number
+
+***Exercise_5***:
+Description: Write a Java program that takes a number from the user and generates an integer between 1 and 7.
+It displays the weekday name.
+Test Data
+Input number: 3
+Expected Output :
+Wednesday
+
+***Exercise_6***:
+Description: Write a Java program that reads two floating-point numbers and tests whether they are the same up to three decimal places.
+Test Data
+Input floating-point number: 25.586
+Input floating-point another number: 25.589
+Expected Output :
+They are different
+
+***Exercise_7***:
+Description: Write a Java program to find the number of days in a month.
+Test Data
+Input a year: 2016
+Input a month number: 2
+Expected Output :
+February 2016 has 29 days
+
+***Exercise_8***:
+Description: Write a Java program that requires the user to enter a single character from the alphabet.
+Print Vowel or Consonant, depending on user input.
+If the user input is not a letter (between a and z or A and Z), or is a string of length > 1, print an error message.
+Test Data
+Input an alphabet: p
+Expected Output :
+Input letter is Consonant
+
+***Exercise_9***:
+Description: Write a Java program that takes a year from the user and prints whether it is a leap year or not.
+Test Data
+Input the year: 2016
+Expected Output :
+2016 is a leap year
+
+***Exercise_10***:
+Description: Write a Java program to display the first 10 natural numbers.
+Expected Output :
+The first 10 natural numbers are:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+***Exercise_11***:
+Description: Write a Java program to display n terms of natural numbers and their sum.
+Test Data
+Input the number: 5
+Expected Output :
+Input number: 7
+The first n natural numbers are : 7
+1
+2
+3
+4
+5
+6
+7
+The Sum of Natural Number upto n terms : 28
+
+***Exercise_12***:
+Description: Write a program in Java to input 5 numbers from the keyboard and find their sum and average.
+Test Data
+Input the 5 numbers : 1 2 3 4 5
+Expected Output :
+Input the 5 numbers :
+1
+2
+3
+4
+5
+The sum of 5 no is : 15
+The Average is : 3.0
+
+***Exercise_13***:
+Description: Write a Java program to display the cube of the given number up to an integer.
+Test Data
+Input number of terms : 4
+Expected Output :
+Number is : 1 and cube of 1 is : 1
+Number is : 2 and cube of 2 is : 8
+Number is : 3 and cube of 3 is : 27
+Number is : 4 and cube of 4 is : 64
+
+***Exercise_14***:
+Description: Write a Java program to display the multiplication table of a given integer.
+Test Data
+Input the number (Table to be calculated) : Input number of terms : 5
+Expected Output :
+5 X 0 = 0
+5 X 1 = 5
+5 X 2 = 10
+5 X 3 = 15
+5 X 4 = 20
+5 X 5 = 25
+
+***Exercise_15***:
+Description: Write a Java program that displays the sum of n odd natural numbers.
+Test Data
+Input number of terms is: 5
+Expected Output :
+The odd numbers are :
+1
+3
+5
+7
+9
+The Sum of odd Natural Number upto 5 terms is: 25
+
+***Exercise_16***:
+Description: Write a Java program to display the pattern like a right angle triangle with a number.
+Test Data
+Input number of rows : 10
+Expected Output :
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678910
+
+
+
