@@ -201,3 +201,22 @@ Input number of rows :  5
 4 5 6
 7 8 9 10
 11 12 13 14 15
+
+***Exercise_21***:
+Description: Write a Java program to display the pattern like a diamond.
+Test Data
+Input number of rows (half of the diamond) : 7
+Expected Output :
+      *
+     ***
+    *****
+   *******
+  *********
+ ***********
+*************
+ ***********
+  *********
+   *******
+    *****
+     ***
+      *
