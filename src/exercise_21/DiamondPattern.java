@@ -2,20 +2,32 @@ package exercise_21;
 
 public class DiamondPattern {
 
-    public void AssembleDiamondPattern()
+    public void AssembleDiamondPattern(int n)
     {
-        for (int i = 1; i <= 6; i++) {
-            for (int j = 1; j <= 6; j++) {
-                System.out.print(" ");;
+        for (int i = 1; i <= n; i++) {
+            // Print spaces
+            for (int j = i; j < n; j++) {
+                System.out.print(" ");
             }
-            for (int k = 1; k <= i; k++) {
-                if(k % 2 != 0){
-                    System.out.print("*");
-                }
-                if(k > 2){
-                    System.out.print("*");
-                }
+            // Print stars
+            for (int j = 1; j <= (2 * i - 1); j++) {
+                System.out.print("*");
             }
+            // Move to the next line
+            System.out.println();
+        }
+
+        // Print the lower half of the diamond
+        for (int i = n - 1; i >= 1; i--) {
+            // Print spaces
+            for (int j = n; j > i; j--) {
+                System.out.print(" ");
+            }
+            // Print stars
+            for (int j = 1; j <= (2 * i - 1); j++) {
+                System.out.print("*");
+            }
+            // Move to the next line
             System.out.println();
         }
     }
