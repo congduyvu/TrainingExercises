@@ -239,3 +239,32 @@ Test Data
 Input an integer number less than ten billion: 125463
 Expected Output :
 Number of digits in the number: 6
+
+***Exercise_24***:
+Description: Write a Java program that accepts three numbers and prints "All numbers are equal" if all three numbers are equal,
+"All numbers are different" if all three numbers are different and "Neither all are equal or different" otherwise.
+Test Data
+Input first number: 2564
+Input second number: 3526
+Input third number: 2456
+Expected Output :
+All numbers are different
+
+***Exercise_25***:
+Description: Write a Java recursive method to calculate the factorial of a given positive integer.
+Test Data
+Input: 5
+Expected Output : 120
+
+***Exercise_26***:
+Description: Write a Java recursive method to calculate the sum of all numbers from 1 to n.
+Test Data
+Input: 5
+Expected Output : 15
+
+***Exercise_27***:
+Description: Write a Java recursive method to calculate the nth Fibonacci number.
+
+***Exercise_28***:
+Description: Write a Java recursive method to check if a given string is a palindrome.
+
