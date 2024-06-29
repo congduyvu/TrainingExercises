@@ -263,8 +263,4 @@ Input: 5
 Expected Output : 15
 
 ***Exercise_27***:
-Description: Write a Java recursive method to calculate the nth Fibonacci number.
-
-***Exercise_28***:
-Description: Write a Java recursive method to check if a given string is a palindrome.
-
+Write a Java program to round up integer division results.
