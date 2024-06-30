@@ -264,3 +264,12 @@ Expected Output : 15
 
 ***Exercise_27***:
 Write a Java program to round up integer division results.
+Test Data
+Input: 15, 4
+Expected Output : 4
+
+***Exercise_28***:
+Write a Java program to get whole and fractional parts from a double value.
+
+***Exercise_29***:
+Write a Java program to find the greatest common divisor (GCD) of two numbers
