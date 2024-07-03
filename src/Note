@@ -273,3 +273,7 @@ Write a Java program to get whole and fractional parts from a double value.
 
 ***Exercise_29***:
 Write a Java program to find the greatest common divisor (GCD) of two numbers
+
+***Exercise_30***:
+Write a program that takes two numbers as input and outputs their least common multiple.
+Note formula: |a . b| = ƯCLN (a; b) x BCNN (a; b)
